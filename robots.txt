@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://equatheng.github.io/sitemap
+Sitemap: https://equatheng.github.io/app/sitemap
+Sitemap: https://equatheng.github.io/assets/sitemap
+Sitemap: https://equatheng.github.io/css/sitemap
+Sitemap: https://equatheng.github.io/includes/sitemap
+Sitemap: https://equatheng.github.io/item/sitemap
+Sitemap: https://equatheng.github.io/src/sitemap
